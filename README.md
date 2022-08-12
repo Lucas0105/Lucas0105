@@ -25,6 +25,7 @@ How to reach me dnjswo105@gmail.com
   [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>]() &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" />]() &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />]() &nbsp;&nbsp;
+  [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />]() &nbsp;&nbsp;
 
 <!--   [<img src="" />]() &nbsp;&nbsp; -->
 
