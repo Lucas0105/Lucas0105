@@ -11,7 +11,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLucas0105&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
   <a href="https://solved.ac/dnjswo105"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dnjswo105"/></a>
  ---
- #### 안녕하세요 🎓충북대학교에 재학중인 개발자 정원재입니다.
+ #### 안녕하세요 개발자 정원재입니다.
 How to reach me dnjswo105@gmail.com
  </div>
  
