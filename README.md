@@ -3,7 +3,7 @@
 <div align="center">
 
    
-<a href="https://github.com/Lucas0105"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas0105&theme=dracula&exclude_repo=cbnu_pyweb&layout=compact&langs_count=10" /></a>
+<a href="https://github.com/Lucas0105"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas0105&theme=dracula&layout=compact&langs_count=10" /></a>
   
 
   ### Won Jae
