@@ -21,6 +21,7 @@ How to reach me dnjswo105@gmail.com
 <h2> 최근 관심 사항 </h2>
    
    - Memcached를 이용한 Django의 성능 개선
+   - Docker를 이용한 Django 프로젝트 배포
    
 <h2> 진행한 프로젝트 </h2>
    
