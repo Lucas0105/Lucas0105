@@ -18,7 +18,24 @@ How to reach me dnjswo105@gmail.com
 <br><br><br>
  <div>
     
-<h2> 사용할 수 있는 기술 </h1>
+<h2> 최근 관심 사항 </h2>
+   
+   - Memcached를 이용한 Django의 성능 개선
+   
+<h2> 진행한 프로젝트 </h2>
+   
+   - [감성 분석을 통해 영화에 대한 사용자의 반응을 알 수 있는 영화 추천 웹사이트](https://github.com/Lucas0105/CJBOX) (10월 ~ 11월)      
+   사용한 기술 : Django, Vue
+   
+<br>
+   
+   - [토이프로젝트 포트폴리오를 올릴 수 있는 웹사이트](https://github.com/ssafy8th-python/woopolemong) (9월 ~ 10월)      
+   사용한 기술 : Django(SSR)
+   
+<br>
+   
+   
+<h2> 사용할 수 있는 기술 </h2>
   
   ### Programming languages
   [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />]() &nbsp;&nbsp;
