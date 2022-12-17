@@ -17,7 +17,7 @@
 How to reach me dnjswo105@gmail.com
  </div>
  
-<br><br><br>
+<br>
  <div>
     
 <h2> 최근 관심 사항 </h2>
