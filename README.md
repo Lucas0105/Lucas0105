@@ -19,11 +19,13 @@ How to reach me dnjswo105@gmail.com
  
 <br>
  <div>
-    
-<h2> 최근 관심 사항 </h2>
-
    
 <h2> 진행한 프로젝트 </h2>
+   
+- [사용자가 화분을 키우는 것에 따라 내장된 디스플레이에 화분의 상태를 표정으로 확인할 수 있는 서비스](https://github.com/Lucas0105/planto) (2023.01.09 ~ 2022.03.17 (6 주))      
+   사용한 기술 : Spring Boot, React      
+   맡은 역할 : Spring Boot 백앤드 개발, 임베디드와 통신, Docker와 Jenkins를 이용한 자동화 배포
+<br>
    
    - [감성 분석을 통해 영화에 대한 사용자의 반응을 알 수 있는 영화 추천 웹사이트](https://github.com/Lucas0105/CJBOX) (2022년 10월 ~ 11월)      
    사용한 기술 : Django, Vue      
