@@ -40,10 +40,15 @@ How to reach me dnjswo105@gmail.com
   
   [<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />](https://spring.io/) &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>](https://www.djangoproject.com/) &nbsp;&nbsp; 
-  [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/) &nbsp;&nbsp; 
+  [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)&nbsp;&nbsp; 
   [<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>]() &nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>](https://git-scm.com/) &nbsp;&nbsp; 
   [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/) &nbsp;&nbsp; 
+  [<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=Docker" alt="Docker"/>]()&nbsp;&nbsp; 
+  [<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>]() &nbsp;&nbsp; 
+   <br/>
+   <br/>
+  [<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>]() &nbsp;&nbsp; 
   
 
 </div>
