@@ -14,7 +14,9 @@
 
    
  #### 안녕하세요 개발자 정원재입니다.
-How to reach me dnjswo105@gmail.com
+How to reach me dnjswo105@gmail.com      
+Portfolio
+https://bold-maize-909.notion.site/f205c0bff3a849dca4c2e1b33d39e12d
  </div>
  
 <br>
